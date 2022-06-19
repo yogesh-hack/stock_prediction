@@ -4,4 +4,21 @@
 
 ![bcb12ec4-a7bf-4392-bab2-03db3d51943b](https://user-images.githubusercontent.com/83384315/174474167-bec336cc-a16c-45f1-995a-50d62c9486c5.jpeg)
 
+## This is the AI Neural Network model to predict stock prices
+
+Use the package manager [pip]
+(https://pip.pypa.io/en/stable/) to install Library
+
+```bash
+pip install Numpy
+pip install Tensorflow
+pip install sckrit-learn
+pip install pandas
+pip install matplotlib
+```
+## Using Machine Learning Algorithms
+- LSTM *Long short-term memory*
+- RNN *Recurrnt neural network*
+
+
 
