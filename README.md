@@ -6,8 +6,7 @@
 
 ## This is the AI Neural Network model to predict stock prices
 
-Use the package manager [pip]
-(https://pip.pypa.io/en/stable/) to install Library
+Use the package manager [pip] to install Library
 
 ```bash
 pip install Numpy
