@@ -1,1 +1,2 @@
-# stock_prediction
+# Stock Trend Prediction Using Machine Learning
+
