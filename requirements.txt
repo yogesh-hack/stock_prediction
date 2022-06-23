@@ -4,3 +4,6 @@ streamlit
 matplotlib
 scikit-learn
 keras
+keras.models
+keras.layers
+
